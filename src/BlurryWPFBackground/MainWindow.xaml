@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BlurryWPFBackground"
         mc:Ignorable="d"
-        Title="Blurred Opacity" Height="600" Width="900" 
+        Title="whatever" Height="600" Width="900" 
         Background="#15DE7AFF"
         AllowsTransparency="True"
         WindowStyle="None"
