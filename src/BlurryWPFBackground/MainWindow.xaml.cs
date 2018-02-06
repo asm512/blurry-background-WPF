@@ -87,12 +87,5 @@ namespace BlurryWPFBackground
             DragMove();
         }
 
-        /// <summary>
-        /// Call this when user tries to close window
-        /// </summary>
-        internal void CloseWindow(object sender = null, RoutedEventArgs e = null)
-        {
-
-        }
     }
 }
